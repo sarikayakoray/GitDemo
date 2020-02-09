@@ -8,6 +8,8 @@ public class GitComment {// this is where the class begins
 		// TODO Auto-generated method stub
 		
 		//this is the java method that will on out console
+		
+		//syso Ctrl+Space
 		System.out.println("This is gonna show in Github once I push");
 
 	} // the main method ends here
